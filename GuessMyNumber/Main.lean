@@ -26,3 +26,5 @@ def main : IO Unit := do
   IO.println "I am thinking of a number between 0 and 99..."
   let secret ← getSecret
   guess secret "Please guess what it is: "
+
+#eval guess(5)

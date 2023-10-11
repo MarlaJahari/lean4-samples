@@ -1,3 +1,4 @@
+
 import MyNat.Addition -- imports addition.
 namespace MyNat
 open MyNat

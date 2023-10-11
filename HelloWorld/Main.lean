@@ -6,3 +6,5 @@ def main : IO Unit :=
 #eval main
 
 #eval Lean.versionString
+
+#eval 4*77
